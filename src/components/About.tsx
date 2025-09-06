@@ -25,7 +25,7 @@ const About: React.FC = () => {
           <div className="relative group">
             <div className="relative overflow-hidden rounded-lg border-2 border-neon-cyan/30 hover:border-neon-cyan transition-all duration-300">
               <img 
-                src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="../../public/yulian.jpg" 
                 alt="Yulian Padeng" 
                 className="w-full h-96 object-cover filter contrast-125 brightness-90"
               />
